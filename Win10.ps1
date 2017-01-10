@@ -56,7 +56,7 @@ $preset = @(
 	"ShowThisPCOnDesktop",
 	"HideDesktopFromThisPC",
 	"HideDocumentsFromThisPC",
-	3 "HideDownloadsFromThisPC",
+	# "HideDownloadsFromThisPC",
 	"HideMusicFromThisPC",
 	"HidePicturesFromThisPC",
 	"HideVideosFromThisPC",
